@@ -1,16 +1,12 @@
-## Hi there 👋
+Olá! Sou Lany Link!
 
-<!--
-**lanylink/lanylink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I'm not working at the moment...
-- 🌱 But I'm interested in new challenges and opportunities...
-- 👯 I'm looking to collaborate, mainly in the field of education, as it's an area I'm passionate about.
-- 🤔 I'm looking for help understanding new technologies.
-- 💬 Ask me about education, literature, writing, learning processes...
-- 📫 How to contact me: (66) 981117329 (WhatsApp)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: how much education can change people's lives.
+- 🔭 Não estou trabalhando no momento...
+- 🌱 Mas estou interessada em novos desafios e oportunidades...
+- 👯 Procuro colaborar, principalmente, na área da educação, pois é uma área pela qual sou apaixonada.
+- 🤔 Procuro ajuda para entender novas tecnologias.
+- 💬 Pergunte-me sobre educação, literatura, redação, processos de aprendizagem...
+- 📫 Como entrar em contato comigo: (66) 981117329 (WhatsApp)
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: o quanto a educação pode mudar a vida das pessoas.
 
